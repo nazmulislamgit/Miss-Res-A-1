@@ -1,0 +1,12 @@
+:root {
+    --primary: #4338ca; /* Indigo-700 */
+    --primary-hover: #3730a3;
+    --secondary: #fcd34d; /* Star color */
+    --dark: #1e293b;
+    --gray: #64748b;
+    --light: #f8fafc;
+    --white: #ffffff;
+    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    --radius: 8px;
+    --transition: all 0.3s ease;
+}
